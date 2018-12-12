@@ -1,1 +1,41 @@
-
+{
+  "ccAcctDtl":{
+    "acctIdr":{
+      "acctIndex":"1234567890123456"
+    },
+    "ldgrBal":{
+      "amt":-510.93,
+      "ccy":"GBP"
+    },
+    "acctDetlCom":{
+      "acctHldrFulName":["KUMAR,A/MR"]
+    },
+    "creditLimit":{
+      "amt":2500,
+      "ccy":"GBP"
+    },
+    "availCreditAmt":{
+      "amt":1902.91,
+      "ccy":"GBP"
+    },
+    "prevStmtDetl":{
+      "stmtIssueDt":"2018-12-11 00:00:00",
+      "stmtDueDt":"2019-01-07 00:00:00",
+      "primCrncyStmt":{
+        "stmtAmt":{
+          "amt":-510.93,
+          "ccy":"GBP"
+        },
+        "stmtMinPymtAmt":{
+          "amt":12.77,
+          "ccy":"GBP"
+        },
+        "pymtAmt":{
+          "amt":586.0,
+          "ccy":"GBP"
+        }
+      }
+    },
+    "lastPymtDt":"2018-12-05 00:00:00"    
+  }
+}
