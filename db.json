@@ -38,6 +38,21 @@
     },
     "lastPymtDt":"2018-12-05 00:00:00"    
   },
-  "rtrvDDAcctDtl": {
+  "ddAcctDtl": {
+    "acctIdr":{
+      "acctIndex":"40023412345678"
+    },
+    "ldgrBal":{
+      "amt":6931.37,
+      "ccy":"GBP"
+    },
+    "acctDetlCom":{
+      "acctName":"",
+      "acctHldrFulName":["KUMAR A"]
+    },
+    "availBal":{
+      "amt":6931.37,
+      "ccy":"GBP"
+    }
   }
 }
