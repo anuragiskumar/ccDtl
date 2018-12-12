@@ -54,5 +54,122 @@
       "amt":6931.37,
       "ccy":"GBP"
     }
-  }
+  },
+  "ddTxnSumm":[
+    {      
+      "txnAmt":{
+        "amt":-50.0,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"D",
+      "txnCatCde":"ATM",
+      "balRunAmt":{
+        "amt":6931.37,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "CASH HSBC    DEC10       ",
+        "EAST HAM I3 @09:55       "
+      ],
+      "txnPostDate":"2018-12-10 00:00:00"      
+    },
+    {
+      "txnIndex":0,
+      "txnAmt":{
+        "amt":-586.0,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"D",
+      "txnCatCde":"BP",
+      "balRunAmt":{
+        "amt":6981.37,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "HSBC BNK VSA123456       ","123456******1234         "
+      ],
+      "txnPostDate":"2018-12-05 00:00:00"
+    },
+    {
+      "txnAmt":{
+        "amt":-16.49,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"D",
+      "txnCatCde":"BP",
+      "balRunAmt":{
+        "amt":7567.37,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "B Pat                  ","Food                     "
+      ],
+      "txnPostDate":"2018-12-01 00:00:00"
+    },
+    {
+      "txnAmt":{
+        "amt":-1000.0,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"D",
+      "txnCatCde":"BP",
+      "balRunAmt":{
+        "amt":7583.86,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "Ms ABC             ","Transfer          "],
+      "txnPostDate":"2018-12-01 00:00:00"
+    },
+    {
+      "txnAmt":{
+        "amt":-50.0,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"D",
+      "txnCatCde":"ATM",
+      "balRunAmt":{
+        "amt":8583.86,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "CASH HSBC    DEC01       ","EAST HAM I1 @10:34       "
+      ],
+      "txnPostDate":"2018-12-01 00:00:00"
+    },
+    {
+      "txnAmt":{
+        "amt":5062.44,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"C",
+      "txnCatCde":"CR",
+      "balRunAmt":{
+        "amt":8633.86,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "XYZ        "
+      ],
+      "txnPostDate":"2018-11-28 00:00:00"
+    },
+    {
+      "txnAmt":{
+        "amt":-70.0,
+        "ccy":"GBP"
+      },
+      "txnTypeCde":"D",
+      "txnCatCde":"ATM",
+      "balRunAmt":{
+        "amt":3571.42,
+        "ccy":"GBP"
+      },
+      "txnDetail":[
+        "CASH HSBC    NOV22       ",
+        "EAST HAM E1 @10:52       "
+      ],
+      "txnPostDate":"2018-11-22 00:00:00"
+    }
+  ],
+  "ccTxnSumm":[]
 }
